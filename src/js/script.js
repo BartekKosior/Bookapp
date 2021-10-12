@@ -111,4 +111,38 @@
     
   };
 
+  class BooksList {
+    constructor() {
+      
+    }
+  
+    initData() {
+      this.data = dataSource.books;
+    }
+  
+    getElements() {
+      
+    }
+  
+    initActions() {
+      
+    }
+  
+    filterBooks() {
+      
+    }
+  
+    determineRatingBgc() {
+      
+    }
+  
+  }
+  
+  const app = new BooksList();
+
+
+
+
+
+
 } 
